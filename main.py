@@ -24,3 +24,11 @@ def funk_str(stringi):
 
 
 funk_str("Hello world!!!")
+
+
+sales = { 'apple': 2, 'orange': 3, 'grapes': 4 }
+print(sales.items())
+
+sales = { 'apple': 2, 'orange': 3, 'grapes': 4 }
+print(sales)
+
